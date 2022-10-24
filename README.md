@@ -1,8 +1,8 @@
 # CodeClause_Gold_Price_Predication
-Marina moheb nafee 
+Marina Moheb Nafee
 
 CodeClause : gold price prediction 
 
-IDE : goggle colab
+IDE : google colab
 
 Language : Python
